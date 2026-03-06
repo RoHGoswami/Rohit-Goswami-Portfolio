@@ -10,9 +10,9 @@ This repository contains the code scripts, and documentation on the work and sub
 
 - **03_Churn and Market Basket Analysis**: CRM pipeline including RFM segmentation, market basket analysis, churn prediction using logistic regression, proposed loyalty strategies for COOP Italia.
 
-- **04_Statistical_Modelling**: Comparative statistical study: Linear Mixed Models vs. Random Forest for predictive modeling (Polimi).
+- **04_Statistical Modelling**: Comparative statistical study: Linear Mixed Models vs. Random Forest for predictive modeling (Polimi).
 
-- **05_Terre_Milanesi**:  An app to centralize information on Milanese farmers' markets, events, and local products for consumers.
+- **05_Strategy and Innovation **:  An app to centralize information on Milanese farmers' markets, events, and local products for consumers.
 
-- **06_Independent_Projects**: Projects undertaken in a variety of topics ranging from Neural Networks to Time Series analysis.
+- **06_Independent Projects**: Projects undertaken in a variety of topics ranging from Neural Networks to Time Series analysis.
 
