@@ -12,7 +12,7 @@ This repository contains the code scripts, and documentation on the work and sub
 
 - **04_Statistical Modelling**: Comparative statistical study: Linear Mixed Models vs. Random Forest for predictive modeling (Polimi).
 
-- **05_Strategy and Innovation **:  An app to centralize information on Milanese farmers' markets, events, and local products for consumers.
+- **05_Strategy and Innovation**:  An app to centralize information on Milanese farmers' markets, events, and local products for consumers.
 
 - **06_Independent Projects**: Projects undertaken in a variety of topics ranging from Neural Networks to Time Series analysis.
 
