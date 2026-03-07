@@ -39,4 +39,5 @@ Based on the analytical findings, four primary marketing pillars were proposed:
 **4. Deepen Long-Term Loyalty**
 * Reward "Super Customers" with exclusive loyalty tiers (e.g., Gold members receive free delivery) and personalized, spending-based anniversary rewards to secure their high lifetime value.
 
-*Disclaimer: The data for this project has not been provided with the rest of things since it proprietary.
+
+*Disclaimer: The dataset used in this project is not included as it is proprietary. However, a detailed report in PDF format has been provided for those interested in exploring the methodology and findings in greater depth.*
