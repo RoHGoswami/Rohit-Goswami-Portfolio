@@ -46,4 +46,6 @@ To ensure the robustness of the findings, multiple diagnostic tests were perform
 ## Conclusion
 The analysis indicates that academic trajectories tend to be self-reinforcing, meaning historically high-performing students are likely to continue excelling. Furthermore, improved access to resources and physical activity can significantly enhance academic performance, even for students who previously scored at an average level. Incorporating Parental Education Level as a random effect also suggests that students with more highly educated parents tend to benefit from additional academic support at home.
 
+## Research Poster
+*See the attached PDF for the full academic presentation and visual diagnostics.*
 
