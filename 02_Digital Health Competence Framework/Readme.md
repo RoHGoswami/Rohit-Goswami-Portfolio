@@ -1,10 +1,13 @@
 # A Novel Digital Health Competence Framework for Patients: Model Validation and Application in Italy
 
 ## Project Overview
-This project is a Master's Thesis in Management Engineering developed at Politecnico di Milano. The primary objective was to design, statistically validate, and apply a novel Digital Health Competence Framework tailored specifically to the Italian population. The study aimed to uncover latent behavioral constructs, identify sociodemographic factors influencing digital health competence, and provide actionable, data-driven policy recommendations.
+- This project is a Master's Thesis in Management Engineering developed at Politecnico di Milano. 
+- The primary objective was to design, statistically validate, and apply a novel Digital Health Competence Framework tailored specifically to the Italian population. The study aimed to uncover latent behavioral constructs, identify sociodemographic factors influencing digital health competence, and provide actionable, data-driven policy recommendations.
 
 ## The Research Objective
-While advancements in digital healthcare have the potential to vastly improve service quality, an uneven distribution of digital health competence risks widening existing social and health inequalities. Vulnerable groups such as older individuals, those with lower education levels, and residents of rural areas often face significant disadvantages when trying to adopt digital health interventions. Existing frameworks often rely solely on psychometric assessments and require modernization to accurately reflect evolving technologies and to effectively assist in current policy design.
+- While advancements in digital healthcare have the potential to vastly improve service quality, an uneven distribution of digital health competence risks widening existing social and health inequalities.
+- Vulnerable groups such as older individuals, those with lower education levels, and residents of rural areas often face significant disadvantages when trying to adopt digital health interventions.
+- Existing frameworks often rely solely on psychometric assessments and require modernization to accurately reflect evolving technologies and to effectively assist in current policy design.
 
 ## Methodology
 The research utilized a robust mixed-methods statistical approach on a dataset gathered via a custom questionnaire developed in collaboration with the Digital Health Observatory of Politecnico di Milano. The survey was administered to a random sample of 1,000 Italians via telephonic interviews.
