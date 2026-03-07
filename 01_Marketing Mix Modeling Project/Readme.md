@@ -47,6 +47,9 @@ Because Robyn does not natively calculate cross-channel media synergies, interac
 
 Based on the Response Decomposition and model outputs, several strategic insights were identified:
 
+<img width="836" height="386" alt="image" src="https://github.com/user-attachments/assets/47f5891b-b061-4991-bd94-e46c70b0eedd" />
+
+
 * **Baseline vs. Incremental Sales:** The vast majority of sales are driven by the baseline trend and seasonality. This indicates robust organic demand—the product would still sell significantly even without active media pushes.
 * **Promo Strategies:** Promotional activities are highly effective, particularly during holiday months (January). Specifically, "Promo Price Cuts" drive over 17% of inflation-adjusted sales. However, the model revealed that "Promo Bundles" had an effect coefficient of 0, meaning they do not significantly impact sales and should be discontinued.
 * **Competitive Influence:** Competitors' marketing activities have a quantifiable negative impact on brand sales, emphasizing the need for strategic, targeted countermeasures.
@@ -57,6 +60,9 @@ Based on the Response Decomposition and model outputs, several strategic insight
 ## 5. Channel Performance & ROI Analysis
 
 Media investments currently contribute to approximately 15% of total sales. Performance varies drastically by channel:
+
+<img width="765" height="417" alt="image" src="https://github.com/user-attachments/assets/6e1b2be8-749d-4bdd-98e8-062504f3b820" />
+
 
 * **Top Performers (High ROI):** * **Amazon Search:** Exhibited the highest conditional and direct ROI (1.33 conditional). 
   * **Google Search:** Highly effective direct ROI (0.19) and massive conditional ROI (1.62).
