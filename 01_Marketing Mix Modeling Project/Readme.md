@@ -32,14 +32,14 @@ To capture the diminishing returns and carryover (memory) effects of advertising
 * Here, $\theta$ (theta) acts as the decay rate hyperparameter controlling the carryover effect, with the half-life determined by $\theta = 0.5 \wedge h$.
 
 ### Hyperparameter Optimization
-Robyn mapped hyperparameter ranges (theta, gamma, and alpha) using **Bayesian Optimization**[cite: 606, 621]. A Gaussian Process modeled the objective function to minimize two critical performance metrics simultaneously:
+Robyn mapped hyperparameter ranges (theta, gamma, and alpha) using **Bayesian Optimization**. A Gaussian Process modeled the objective function to minimize two critical performance metrics simultaneously:
 1. **NRMSE (Normalized Root Mean Square Error):** To minimize prediction error.
 2. **DECOMP.RSSD (Decomposition Root Sum of Squared Distance):** To minimize the discrepancy between the share of spend and the share of effect for paid media.
 
 After 5,000 iterations, the chosen model achieved an impressive **Adjusted R-squared of 0.8878** and an **NRMSE of 0.0645**, indicating a highly accurate fit.
 
 ### Custom Synergy Calculations (Conditional ROI)
-Because Robyn does not natively calculate cross-channel media synergies, interaction terms were manually introduced by multiplying media investment covariates (e.g., TV x YouTube, TV x Google Search) [cite: 632-634]. This allowed for the calculation of **Conditional ROI**—the actual ROI when pairs of media are invested in together—preventing the underestimation of interconnected channels.
+Because Robyn does not natively calculate cross-channel media synergies, interaction terms were manually introduced by multiplying media investment covariates (e.g., TV x YouTube, TV x Google Search). This allowed for the calculation of **Conditional ROI**—the actual ROI when pairs of media are invested in together—preventing the underestimation of interconnected channels.
 
 ---
 
@@ -48,7 +48,7 @@ Because Robyn does not natively calculate cross-channel media synergies, interac
 Based on the Response Decomposition and model outputs, several strategic insights were identified:
 
 * **Baseline vs. Incremental Sales:** The vast majority of sales are driven by the baseline trend and seasonality. This indicates robust organic demand—the product would still sell significantly even without active media pushes.
-* **Promo Strategies:** Promotional activities are highly effective, particularly during holiday months (January). Specifically, "Promo Price Cuts" drive over 17% of inflation-adjusted sales [cite: 819-820, 849]. However, the model revealed that "Promo Bundles" had an effect coefficient of 0, meaning they do not significantly impact sales and should be discontinued.
+* **Promo Strategies:** Promotional activities are highly effective, particularly during holiday months (January). Specifically, "Promo Price Cuts" drive over 17% of inflation-adjusted sales. However, the model revealed that "Promo Bundles" had an effect coefficient of 0, meaning they do not significantly impact sales and should be discontinued.
 * **Competitive Influence:** Competitors' marketing activities have a quantifiable negative impact on brand sales, emphasizing the need for strategic, targeted countermeasures.
 * **Distribution Impact:** The `WEIGHTEDHANDLINGDISTRIBUTION` covariate significantly impacts sales. Optimizing inventory management and physical/digital shelf visibility is just as critical as media spend.
 
@@ -74,7 +74,7 @@ Using the model's saturation curves and Marginal ROAS (mROAS) metrics, the budge
 **Key Optimization Moves:**
 1. **Scale Down TV:** TV spend was reduced from an initial **49.1%** of the budget down to **30.1%** (Bounded) and **19.6%** (Bounded x3). This reallocation actually improved TV's ROAS from 0.04 to 0.06 by removing wasted, saturated spend.
 2. **Aggressively Scale Search:** Budget was diverted into high-intent search channels. Google Search was scaled from **15.6%** up to **34%** (Bounded x3). Amazon Search was scaled from **5.8%** to **8%**. 
-3. **Optimize Video Platforms:** YouTube investments were safely increased from **20.6%** to **27.1%** to capitalize on the TV x YouTube synergy [cite: 1026-1029].
+3. **Optimize Video Platforms:** YouTube investments were safely increased from **20.6%** to **27.1%** to capitalize on the TV x YouTube synergy.
 4. **Cut Waste:** Investments in Twitch and Instagram Influencers were reduced to **0%** to eliminate wasted capital.
 
  *Disclaimer: The dataset used in this project is not included as it is proprietary. However, a managerial report and a report explaining the methodologies involved has been provided for those interested in exploring the methodology and findings in greater depth.*
