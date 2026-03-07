@@ -9,6 +9,11 @@ While advancements in digital healthcare have the potential to vastly improve se
 ## Methodology
 The research utilized a robust mixed-methods statistical approach on a dataset gathered via a custom questionnaire developed in collaboration with the Digital Health Observatory of Politecnico di Milano. The survey was administered to a random sample of 1,000 Italians via telephonic interviews.
 
+  <img width="725" height="290" alt="image" src="https://github.com/user-attachments/assets/5da5ae67-3a33-48bc-9400-7f84bce10334" /> 
+  
+  Combining a PLS SEM with Non Linear Regression
+
+
 * **Construct Validation (PLS-SEM):** Partial Least Squares Structural Equation Modelling (with 5,000 bootstrap resamples) was used to validate the framework and establish structural relationships between four latent behaviors: Digital Literacy (DLIT), Health Literacy (HLIT), Digital Soft Skills (DSS), and eHealth Skills (EHS).
 * **Sociodemographic Analysis:** A Multiple Linear Regression model incorporating a restricted cubic spline was employed to assess the impact of various sociodemographic factors. The cubic spline was specifically used to model factors like age, which typically exhibit non-linear trends.
 
