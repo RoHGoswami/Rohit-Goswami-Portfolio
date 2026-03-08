@@ -31,5 +31,4 @@ The final phase focused on the synthesis of analytical findings into a visual fo
 * **Data Visualization:** Tableau / Power BI
 * **Communication:** Technical Writing and Executive Presentations
 
-*## Certification
-The verified certificate of completion for this program is available as a pdf in the repository folder.*
+*The verified certificate of completion for this program is available as a pdf in the repository folder.*
