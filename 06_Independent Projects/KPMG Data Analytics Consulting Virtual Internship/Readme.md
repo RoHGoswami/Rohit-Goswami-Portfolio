@@ -1,7 +1,8 @@
-# KPMG Data Analytics Virtual Internship: Sprocket Central Pty Ltd
+# KPMG Data Analytics Consulting Virtual Internship
 
 ## Project Overview
-This repository contains the documentation and analytical outputs for the KPMG Data Analytics Virtual Internship. The project focuses on a data-driven approach to customer acquisition for Sprocket Central Pty Ltd, a retail organization specializing in bicycles and cycling accessories. The primary objective was to analyze existing customer datasets to identify trends and optimize marketing strategies for a prospective customer list of 1,000 individuals.
+- This repository contains the documentation and analytical outputs for the KPMG Data Analytics Consulting Virtual Internship. 
+- The project focuses on a data-driven approach to customer acquisition for Sprocket Central Pty Ltd, a retail organization specializing in bicycles and cycling accessories. The primary objective was to analyze existing customer datasets to identify trends and optimize marketing strategies for a prospective customer list of 1,000 individuals.
 
 ## Methodology and Task Documentation
 
